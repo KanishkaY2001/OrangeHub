@@ -1,5 +1,11 @@
 # OrangeHub
 **OrangeHub** is a hub of lua scripts which allow users to gain a competitive advantage in Rogue Lineage, a Roblox game. Through the use of Synapse, a scripting engine, these lua files may be utilised to gain access to numerous features and abilities within the game.
+
+## YT Demo Links:
+https://www.youtube.com/watch?v=ZZVRG-dJ31U
+https://www.youtube.com/watch?v=LBSATjCb1_s
+https://www.youtube.com/watch?v=miY2_9WQBn4
+
 ## Game hosted on:
 https://www.roblox.com/games/3016661674/Rogue-Lineage
 ## Instructions:
